@@ -1,0 +1,14 @@
+Deffetce between git and github 
+
+What Is Git?
+A distributed version control system (DVCS) used to track code changes locally.
+Created by Linus Torvalds in 2005.
+Works offline and stores full project history on each developer’s machine.
+Focuses on operations like commit, branch, merge, rebase.
+Open‑source and installed locally.
+
+What Is GitHub?
+A cloud-based hosting platform for Git repositories.
+Provides collaboration features: pull requests, issues, code reviews, CI/CD (GitHub Actions).
+Owned by Microsoft.
+Requires internet access.
